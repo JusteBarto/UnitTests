@@ -8,6 +8,6 @@ public class Main {
     {
         JUnitCore junit = new JUnitCore();
         junit.addListener(new TextListener(System.out));
-        junit.run(UnitTests.class);
+        junit.run(Tests.class);
     }
 }
