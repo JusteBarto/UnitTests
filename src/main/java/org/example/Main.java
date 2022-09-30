@@ -6,8 +6,8 @@ import org.junit.runner.JUnitCore;
 public class Main {
     public static void main(String[] args)
     {
-        JUnitCore junit = new JUnitCore();
-        junit.addListener(new TextListener(System.out));
-        junit.run(UnitTest.class);
+//        JUnitCore junit = new JUnitCore();
+//        junit.addListener(new TextListener(System.out));
+//        junit.run(UnitTest.class);
     }
 }
