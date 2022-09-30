@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Tests {
+public class UnitTest {
 
     private static String email;
     private static String password;
